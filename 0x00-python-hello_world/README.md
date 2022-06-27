@@ -1,1 +1,1 @@
-This script executes to run Python code
+This Python script executes to print a string
