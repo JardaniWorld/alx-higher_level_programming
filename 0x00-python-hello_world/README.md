@@ -1,1 +1,1 @@
-This Python script executes to print out string from a text file
+This code checks if a singly-linked-list has a cycle in it
