@@ -1,1 +1,1 @@
-This code checks if a singly-linked-list has a cycle in it
+This Python script executes to print a stringto the display
