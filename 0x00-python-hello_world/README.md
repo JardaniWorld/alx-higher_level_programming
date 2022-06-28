@@ -1,1 +1,1 @@
-This Python script executes to compile a Python script file
+This file executes to do the same thing as the Python bytecode
