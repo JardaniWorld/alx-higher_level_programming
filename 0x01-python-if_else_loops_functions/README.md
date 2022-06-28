@@ -1,1 +1,1 @@
-This program assigns a random signed number to a variable
+This code executes to print the ASCII alphabet in lower case
