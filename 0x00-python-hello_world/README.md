@@ -1,1 +1,1 @@
-This Python script executes to print a floating point number
+This Python script executes to print a string
