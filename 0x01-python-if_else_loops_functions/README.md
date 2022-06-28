@@ -1,1 +1,1 @@
-This code prints the ASCII alphabet in lower case followed by a new line
+This code prints numbers from 0 to 98 in decimal and in hexadecimal
