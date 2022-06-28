@@ -1,1 +1,1 @@
-This Python script executes to create a new sentence
+This Python script executes to print out string from a text file
