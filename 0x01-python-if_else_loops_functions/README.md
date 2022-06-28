@@ -1,1 +1,1 @@
-This code prints all possible different combinations of two digits
+This code checks for lower case characters
