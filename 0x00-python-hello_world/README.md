@@ -1,1 +1,1 @@
-This Pytho script executes to perfom actions on strings
+This Python script executes to create a new sentence
