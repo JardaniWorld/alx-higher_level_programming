@@ -1,1 +1,1 @@
-This Python script executes to concatenate strings together
+This Pytho script executes to perfom actions on strings
