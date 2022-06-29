@@ -1,1 +1,1 @@
-This code removes a character at position n
+This code replicates the Python bytecode
