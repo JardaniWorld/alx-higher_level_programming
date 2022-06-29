@@ -1,1 +1,1 @@
-This code adds two integers and returns the result
+This code computes a number to the power of another number
