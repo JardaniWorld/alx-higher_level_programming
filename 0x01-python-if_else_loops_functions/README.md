@@ -1,1 +1,1 @@
-This code prints the last digit of a number
+This code adds two integers and returns the result
