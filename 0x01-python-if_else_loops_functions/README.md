@@ -1,1 +1,1 @@
-This code checks for lower case characters
+This code prints a string in upper case
