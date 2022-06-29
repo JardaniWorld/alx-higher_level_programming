@@ -1,1 +1,1 @@
-This code prints a string in upper case
+This code prints the last digit of a number
