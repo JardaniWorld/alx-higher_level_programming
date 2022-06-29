@@ -1,1 +1,1 @@
-This code prints the ASCII alphabet in reverse order
+This code removes a character at position n
