@@ -1,1 +1,1 @@
-This code prints numbers from 1 to 100 separated by a space
+This code inserts a number intoa sorted list
