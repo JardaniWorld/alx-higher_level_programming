@@ -1,1 +1,1 @@
-This code inserts a number intoa sorted list
+This code prints the ASCII alphabet in reverse order
