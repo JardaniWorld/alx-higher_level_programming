@@ -1,1 +1,1 @@
-This code prints the number of and the lists of its arguments
+This code prints the resultof the addition of all arguments
