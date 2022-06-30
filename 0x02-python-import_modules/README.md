@@ -1,1 +1,1 @@
-This code imports a file as a module
+This code imports some file module and performs some Maths computaions and also prints the result
