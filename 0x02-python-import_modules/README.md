@@ -1,1 +1,1 @@
-This code imports some file module and performs some Maths computaions and also prints the result
+This code prints the number of and the lists of its arguments
