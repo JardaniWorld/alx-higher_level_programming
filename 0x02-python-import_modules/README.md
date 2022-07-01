@@ -1,1 +1,1 @@
-This code prints all the names defined by a compiled module
+This code imports a variable from a file and prints its value
