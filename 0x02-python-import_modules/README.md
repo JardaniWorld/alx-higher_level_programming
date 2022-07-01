@@ -1,1 +1,1 @@
-This code prints the resultof the addition of all arguments
+This code prints all the names defined by a compiled module
