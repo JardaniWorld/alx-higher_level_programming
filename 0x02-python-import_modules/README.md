@@ -1,1 +1,1 @@
-This code prints a string to the display
+This code does the exact samething as the Python bytecode
