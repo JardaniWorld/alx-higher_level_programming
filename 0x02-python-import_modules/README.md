@@ -1,1 +1,1 @@
-This code does the exact samething as the Python bytecode
+This code prints the alphabet in uppercase
