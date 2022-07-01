@@ -1,1 +1,1 @@
-This code imports a variable from a file and prints its value
+This code imports functions from a file and carries out basic computations like a calculator
