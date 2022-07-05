@@ -1,1 +1,1 @@
-This code finds all multiples of 2 in a list
+This code deletes an item at a particular position
