@@ -1,1 +1,1 @@
-This code checks if a singly linked list is a palindrome
+This code prints some basic info about Python lists
