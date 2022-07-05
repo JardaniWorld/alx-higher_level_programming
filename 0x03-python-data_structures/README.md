@@ -1,1 +1,1 @@
-This code switches the values of two variables
+This code checks if a singly linked list is a palindrome
