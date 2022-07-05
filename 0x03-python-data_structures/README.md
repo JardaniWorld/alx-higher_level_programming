@@ -1,1 +1,1 @@
-This code returns a tuple with the length of a string and its first character
+This code finds the biggest integer of a list
