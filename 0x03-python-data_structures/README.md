@@ -1,1 +1,1 @@
-This code removes all characters c and C from a string
+This code prints a matrix of integers
