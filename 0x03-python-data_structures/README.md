@@ -1,1 +1,1 @@
-This code prints all integers of a list
+This code retrieves an element from a list
