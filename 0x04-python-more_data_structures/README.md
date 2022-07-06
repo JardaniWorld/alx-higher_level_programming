@@ -1,1 +1,1 @@
-This code returns the number of keys in a dictionary
+This code prints a dictionary by ordered keys
