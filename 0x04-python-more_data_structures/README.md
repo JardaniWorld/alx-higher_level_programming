@@ -1,1 +1,1 @@
-This code replaces or adds keys/values in a dictionary
+This code deletes a key in a dictionary
