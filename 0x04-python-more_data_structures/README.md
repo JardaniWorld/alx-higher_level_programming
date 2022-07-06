@@ -1,1 +1,1 @@
-This code returns a set of all elements present in only one set
+This code returns the number of keys in a dictionary
