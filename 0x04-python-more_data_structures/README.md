@@ -1,1 +1,1 @@
-This function returns a set of common elements in two sets
+This code returns a set of all elements present in only one set
