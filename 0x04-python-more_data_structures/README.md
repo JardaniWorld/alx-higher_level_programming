@@ -1,1 +1,1 @@
-This code returns a key with the biggest integer value
+This code returns a list with all values multiplied by a number without using any loops
