@@ -1,1 +1,1 @@
-This code computes the square value of all integers of a matrix
+This code replaces all occurrences of an element by another in a list
