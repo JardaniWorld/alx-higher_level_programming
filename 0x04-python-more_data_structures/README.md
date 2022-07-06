@@ -1,1 +1,1 @@
-This code returns a new dictionary with all values multiplied by 2
+This code returns a key with the biggest integer value
