@@ -1,1 +1,1 @@
-This code deletes a key in a dictionary
+This code returns a new dictionary with all values multiplied by 2
