@@ -1,1 +1,1 @@
-This code adds all unique integers in a list
+This function returns a set of common elements in two sets
