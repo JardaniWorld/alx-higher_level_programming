@@ -1,1 +1,1 @@
-This code computes the square value of all integers of a matrix using map
+This code deletes keys with a specific value in a dictionary
