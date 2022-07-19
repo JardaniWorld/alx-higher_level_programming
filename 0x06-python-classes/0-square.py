@@ -7,4 +7,5 @@ This is an empty class
 """
 
 class Square:
+    """This is a class with name Square"""
     pass
