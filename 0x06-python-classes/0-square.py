@@ -7,5 +7,5 @@ This is an empty class
 """
 
 class Square:
-    """A class with name Square"""
+    """A class with name Square."""
     pass
