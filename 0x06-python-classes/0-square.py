@@ -2,11 +2,11 @@
 # 0-square.py
 """Square Class
 
-This class don't do anything for the moment
+This is an empty class creation
 
 """
 
 
 class Square:
-    """Represent a square."""
+    """Defines a Square class"""
     pass
