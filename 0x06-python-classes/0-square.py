@@ -2,7 +2,8 @@
 # 0-square.py
 
 """Square Class
-This is an empty class"""
+This is an empty class
+"""
 
 class Square:
     pass
