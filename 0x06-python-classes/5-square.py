@@ -1,11 +1,9 @@
 #!/usr/bin/python3
-# 4-square.py
 """Define a class Square."""
 
 
 class Square:
     """Represent a square."""
-
     def __init__(self, size=0):
         """Initialize a new square.
         Args:
@@ -15,12 +13,13 @@ class Square:
 
     @property
     def size(self):
-        """Get/set the current size of the square."""
+        """Get the current size of the square."""
         return (self.__size)
 
     @size.setter
     def size(self, value):
-        if not isinstance(value, int):
+        """Set the current size of the square."""
+        if type(value) is not int:
             raise TypeError("size must be an integer")
         elif value < 0:
             raise ValueError("size must be >= 0")
@@ -28,4 +27,12 @@ class Square:
 
     def area(self):
         """Return the current area of the square."""
-        return (self.__size * self.__size)
+        return self.__size ** 2
+
+    def my_print(self):
+        """prints in stdout the square with character #"""
+        if self.size == 0:
+            print()
+        for row in range(0, self.size):
+            for col in range(0, self.size):
+                print("#", end="\n" if col == self.size - 1 else "")
