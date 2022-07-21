@@ -60,7 +60,6 @@ class SinglyLinkedList:
             self.__head = new
         else:
             tmp = self.__head
-
             while (tmp.next_node is not None and
                     tmp.next_node.data < value):
                 tmp = tmp.next_node
