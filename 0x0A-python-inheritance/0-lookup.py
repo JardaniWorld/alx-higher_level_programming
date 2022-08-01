@@ -4,4 +4,4 @@ def lookup(obj):
 
     available attributes and methods of an object.
     """
-    return dir(lookup)
+    return [func for func in dir(lookup) if callable(getattr(lookup, func))]
