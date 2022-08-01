@@ -5,4 +5,4 @@ def lookup(obj):
 
     available attributes and methods of an object.
     """
-    return lookup.__dict__.keys()
+    return list(lookup.__dict__.keys())
