@@ -21,7 +21,7 @@ class Student:
             except Exception:
                 pass
         return dictionary
- 
+
     def reload_from_json(self, json):
         for key, value in json.items():
             self.__dict__[key] = value
