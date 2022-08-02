@@ -1,16 +1,16 @@
 #!/usr/bin/python3
-"""This script adds all arguments to a Python
-   list, and then save them to a file.
+"""
+Module 7-add_item
 """
 
 
 from sys import argv
 
-s = __import__('5-save_to_json_file.py').save_to_json_file
-l = __import__('6-load_from_json_file.py').load_from_json_file
+s = __import__('5-save_to_json_file').save_to_json_file
+m = __import__('6-load_from_json_file').load_from_json_file
 
 try:
-    files_before = l('add_item.json')
+    files_before = m('add_item.json')
 except FileNotFoundError:
     files_before = []
 
