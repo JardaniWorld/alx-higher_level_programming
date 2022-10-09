@@ -13,8 +13,8 @@ from sys import argv
 
 if __name__ == '__main__':
     """
-    This defines access to the database and get the states
-    from the database.
+    This defines access to the database
+    and get the states from the database.
     """
 
     db = MySQLdb.connect(host="localhost", user=argv[1], port=3306,
